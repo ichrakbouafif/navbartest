@@ -1,0 +1,16 @@
+/* search-bar.component.css */
+.search-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.search-icon, .close-icon {
+  cursor: pointer;
+}
